@@ -17,3 +17,23 @@ This project includes custom CSS styling for a WooCommerce-based e-commerce webs
 
 ## Goal
 To improve user experience and create a modern, premium e-commerce interface.
+# RiverrShop Custom WooCommerce Theme
+
+Custom WordPress theme developed for an e-commerce website.
+
+## Features
+- WooCommerce integration
+- Dynamic theme customizer (colors, texts, buttons)
+- Responsive design (mobile-first)
+- Custom product sections
+- Cart and account integration
+- Clean UI/UX
+
+## Technologies
+- PHP
+- WordPress
+- WooCommerce
+- CSS
+
+## Goal
+To create a modern and flexible e-commerce storefront.
